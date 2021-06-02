@@ -1,6 +1,6 @@
 # Regression-Algorithms
 
-This is the implementation of Regression ALgorithms in python without the use of already available packages/
+This is the implementation of Regression ALgorithms in python without the use of already available packages.
 
 # Files 
 - Linear_Regression.ipynb => Contains the implementation of Batch/Vanilla LMS, Stochastic LMS and Least Squared Closed Form solution algorithms from scratch. This also contains sklearn based implementation of Ridge, Lasso and Elastic Net regressions
